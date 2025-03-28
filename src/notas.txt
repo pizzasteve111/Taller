@@ -1,0 +1,15 @@
+-Linter clippy es una herramienta que detecta errores comunes
+
+-dup duplica el elemento en la punta del stack
+
+-Words: son el equivalente a funciones
+Se crea usando : y termina en ;
+
+-Hash: se tiene un hash que almacena todaas las operaciones soportadas
+
+
+
+To_do:
+terminar el retorno de errores, implementar los errores para casos mas particulares
+Crear un archivo particular para cada tests
+Crear un archivo general de tests que chekean todos los que existen

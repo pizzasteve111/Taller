@@ -1,0 +1,3 @@
+trait Error{
+    fn imprimir();
+}

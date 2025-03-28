@@ -1,0 +1,25 @@
+pub mod and;
+pub mod cr;
+pub mod division;
+pub mod drop;
+pub mod dup;
+pub mod emit;
+pub mod esMayorQue;
+pub mod esMenorQue;
+pub mod ifelsethen;
+pub mod ifthen;
+pub mod igual;
+pub mod not;
+pub mod or;
+pub mod over;
+pub mod producto;
+pub mod punto;
+pub mod puntocomillas;
+pub mod resta;
+pub mod rot;
+pub mod suma;
+pub mod swap;
+pub mod word;
+
+pub mod operacion_trait;
+pub use operacion_trait::Operacion;
